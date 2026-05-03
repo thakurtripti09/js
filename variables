@@ -1,0 +1,7 @@
+const accountId=98760
+let accountEmail="tripti@gmail.com"
+var accountPassword="123456"
+accountcity="shimla"
+
+accountId=2
+console.log(accountId);
